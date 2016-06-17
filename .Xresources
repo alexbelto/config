@@ -1,0 +1,45 @@
+URxvt.background:            #000000 
+URxvt.foreground:            #6a1682
+URxvt.fading:                40
+!!URxvt.fadeColor:             S_base03
+!!URxvt.cursorColor:           S_base1
+!!URxvt.pointerColorBackground:S_base01
+!!URxvt.pointerColorForeground:S_base1
+
+!! black dark/light
+URxvt.color0:                #19253E
+URxvt.color8:                #555e74
+
+!! red dark/light
+URxvt.color1:                #6a1212 
+URxvt.color9:                #c11414
+
+!! green dark/light
+URxvt.color2:                #046104
+URxvt.color10:               #248e24
+
+!! yellow dark/light
+URxvt.color3:                #804f08
+URxvt.color11:               #cf661b
+
+!! blue dark/light
+URxvt.color4:                #243661
+URxvt.color12:               #113c9d
+
+!! magenta dark/light
+URxvt.color5:                #432555
+URxvt.color13:               #66238c
+
+!! cyan dark/light
+URxvt*color6:                #2e6c6d
+URxvt.color14:               #198687
+
+!! white dark/light
+URxvt.color7:                #4665A7
+URxvt.color15:               #6895F4
+
+URxvt.letterSpace: 0 
+URxvt.font: xft:Inconsolata:style=bold:size=12
+URxvt.scrollBar: False
+
+URxvt.interalBorder: 5

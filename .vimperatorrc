@@ -1,0 +1,18 @@
+" title bar
+set titlestring="Firefox with Vimperator"
+
+" default search/suggest engine: google
+set defsearch=google
+set suggestengines=google
+
+" Show tab bar only
+set gui=none,tabs,addons
+
+" max number of listing items
+set maxitems=7
+
+" colorscheme
+colorscheme darkness
+
+" useful for command-line completion
+set autocomplete
